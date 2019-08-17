@@ -2,4 +2,4 @@
 
 Drumkit
 
-![](d1.jpg)
+![](d1.JPG)
